@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-elmarrouni.Ahmed-elmarrouni" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+El+marrouni!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+bilal +korchi!;" />
 </h1>
 
 <h3 align="center">👀 A passionate full-stack developer from Morocco</h3>
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on various *projects for my studies*.
  
- 🌱 I’m currently learning *Laravel, Node JS*
+ 🌱 I’m currently learning *mobile dev*
 
-💬 Ask me about *Node.js, React, Python*
+💬 Ask me about *Node.js, React, Python,react native,blockchain, laravel,django*
 <br/>
  </div>
 
